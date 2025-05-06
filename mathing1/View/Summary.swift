@@ -42,6 +42,6 @@ struct Summary: View {
     }
 }
 
-//#Preview {
-//    Summary(played:"Basic", score: 0)
-//}
+#Preview {
+    Summary(played:"Basic", score: 0)
+}

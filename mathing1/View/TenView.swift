@@ -6,7 +6,6 @@ struct TenView: View {
    
     @State var count=0
     @State var index=0
-    @State var answer=0
     @State var flag=false
    
     

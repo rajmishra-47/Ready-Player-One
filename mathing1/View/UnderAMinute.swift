@@ -2,11 +2,11 @@
 import SwiftUI
 
 struct UnderAMinute: View {
+    
     @StateObject private var obj=Solution()
    
     @State var count=0
     @State var index=0
-    @State var answer=0
     @State var flag=false
     @State private var counter = 1
     
