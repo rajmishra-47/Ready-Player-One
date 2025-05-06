@@ -35,12 +35,11 @@ An iOS app designed to help users improve their basic arithmetic skills through 
 Take a quick look at how the app works!
 
 ### Screenshots
-<p float="left">
-  <img src="screenshots/MainMenu.png" width="200" />
-  <img src="screenshots/Under-A-Minute.png" width="200" />
-  <img src="screenshots/Random-10.png" width="200" />
-  <img src="screenshots/Summary.png" width="200" />
-</p>
+- **Main Menu**: ![Main Menu](https://github.com/rajmishra-47/Ready-Player-One/blob/main/MainMenu.png)
+- **Under a Minute Mode**: ![Under a Minute](https://github.com/rajmishra-47/Ready-Player-One/blob/main/Under-A-Minute.png)
+- **Random 10 Mode**: ![Random 10](https://github.com/rajmishra-47/Ready-Player-One/blob/main/Random-10.png)
+- **Summary Screen**: ![Summary](https://github.com/rajmishra-47/Ready-Player-One/blob/main/Summary.png)
+
 
 ### YouTube Demo
 Click the link to watch a short demo of the app in action:  
